@@ -24,4 +24,3 @@
 - [[03 Shack/PDI/Formación de entrenadores\|Formación de entrenadores]]
 - [[03 Shack/PDI/Steer\|Steer]]
 - [[03 Shack/PDI/Manejo Higiénico de alimentos\|MHA]]
-Prueba
