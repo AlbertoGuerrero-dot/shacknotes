@@ -5,7 +5,7 @@
 ### 🔥Hotside
 - [[03 Shack/HotSide/Estación de GRILL\|Grill]]
 - [[03 Shack/HotSide/Estación de Fry\|Fry]]
-- [[Estación de BUN \|Bun]] 
+- [[03 Shack/HotSide/Estación de Bun\|Bun]] 
 ### ❄️Coldside
 - [[03 Shack/❄️ ColdSide/Estación de Custard\|Custard]]
 - [[03 Shack/❄️ ColdSide/Estación de Beberage\|Beberage]]
