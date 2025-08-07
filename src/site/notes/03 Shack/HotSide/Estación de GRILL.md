@@ -3,7 +3,7 @@
 ---
 
 ## Índice
-1. [[#🎯 Objetivo del Área]]
+1. [[#🎯 Objetivo del Área |Objetivo de Area]]
 2. [[#👥 Posiciones y Responsabilidades]]
 3. [[#🛠️ Equipo y Herramientas]]
 4. [[#🌡️ Temperaturas y Cocción]]
