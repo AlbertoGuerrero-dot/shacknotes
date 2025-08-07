@@ -1,0 +1,27 @@
+---
+{"dg-publish":true,"permalink":"/03 Shack/Shake Shack Notes/","tags":["gardenEntry"]}
+---
+
+### 🔥Hotside
+- [[03 Shack/HotSide/Estación de GRILL\|Grill]]
+- [[03 Shack/HotSide/Estación de Fry\|Fry]]
+- [[Estación de BUN \|Bun]] 
+### ❄️Coldside
+- [[03 Shack/❄️ ColdSide/Estación de Custard\|Custard]]
+- [[03 Shack/❄️ ColdSide/Estación de Beberage\|Beberage]]
+### 🎖️Expo
+- [[03 Shack/🎖️ Expo/Estación de Expo\|Expo]]
+### 🏛️Front Of House
+- [[03 Shack/🏛️ Front Of House/Estación de Cash\|Cash]]
+- [[03 Shack/🏛️ Front Of House/Estación de FOH\|FOH]]
+### 🔪Back Of House
+- [[03 Shack/🔪 Back Of House/Estación de Kitchen\|Kitchen]]
+- [[03 Shack/🔪 Back Of House/Estación de Clean\|Clean]]
+- [[03 Shack/🔪 Back Of House/Estación de Prep\|Prep]]
+### PDI (Trainer)
+- [[03 Shack/PDI/Roles y Responsabilidades\|Roles y Responsabilidades]]
+- [[03 Shack/PDI/Fundamentos de liderazgo\|Fundamentos de liderazgo]]
+- [[03 Shack/PDI/Formación de entrenadores\|Formación de entrenadores]]
+- [[03 Shack/PDI/Steer\|Steer]]
+- [[03 Shack/PDI/Manejo Higiénico de alimentos\|MHA]]
+Prueba
