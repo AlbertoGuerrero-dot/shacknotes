@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03 Shack/🎖️ Expo/Estación de Expo/"}
+{"dg-publish":true,"permalink":"/03-shack/expo/estacion-de-expo/"}
 ---
 
 ## Índice

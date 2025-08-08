@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03 Shack/❄️ ColdSide/Estación de Beberage/"}
+{"dg-publish":true,"permalink":"/03-shack/cold-side/estacion-de-beberage/"}
 ---
 
 ## 🎯 Objetivo del Área

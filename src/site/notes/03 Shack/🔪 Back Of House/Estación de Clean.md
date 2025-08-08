@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03 Shack/🔪 Back Of House/Estación de Clean/"}
+{"dg-publish":true,"permalink":"/03-shack/back-of-house/estacion-de-clean/"}
 ---
 
 ## 🎯 Objetivo del Área

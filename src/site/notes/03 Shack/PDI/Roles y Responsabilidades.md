@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03 Shack/PDI/Roles y Responsabilidades/"}
+{"dg-publish":true,"permalink":"/03-shack/pdi/roles-y-responsabilidades/"}
 ---
 
 

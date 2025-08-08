@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/03 Shack/Shake Shack Notes/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/03-shack/shake-shack-notes/","tags":["gardenEntry"]}
 ---
 
 ### 🔥Hotside
-- [[03 Shack/HotSide/Estación de GRILL\|Grill]]
-- [[03 Shack/HotSide/Estación de Fry\|Fry]]
-- [[03 Shack/HotSide/Estación de Bun\|Bun]] 
+- [[03 Shack/🔥 HotSide/Estación de GRILL\|Grill]]
+- [[03 Shack/🔥 HotSide/Estación de Fry\|Fry]]
+- [[03 Shack/🔥 HotSide/Estación de Bun\|Bun]] 
 ### ❄️Coldside
 - [[03 Shack/❄️ ColdSide/Estación de Custard\|Custard]]
 - [[03 Shack/❄️ ColdSide/Estación de Beberage\|Beberage]]

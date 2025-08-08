@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03 Shack/PDI/Manejo Higiénico de alimentos/"}
+{"dg-publish":true,"permalink":"/03-shack/pdi/manejo-higienico-de-alimentos/"}
 ---
 
 ## Introducción

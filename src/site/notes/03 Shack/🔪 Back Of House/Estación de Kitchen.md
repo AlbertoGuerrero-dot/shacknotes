@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03 Shack/🔪 Back Of House/Estación de Kitchen/"}
+{"dg-publish":true,"permalink":"/03-shack/back-of-house/estacion-de-kitchen/"}
 ---
 
 ## Índice 

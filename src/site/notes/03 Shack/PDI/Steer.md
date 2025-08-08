@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03 Shack/PDI/Steer/"}
+{"dg-publish":true,"permalink":"/03-shack/pdi/steer/"}
 ---
 
 ## Preguntas de diagnostico

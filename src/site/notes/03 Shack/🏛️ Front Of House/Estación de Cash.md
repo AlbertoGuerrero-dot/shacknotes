@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03 Shack/🏛️ Front Of House/Estación de Cash/"}
+{"dg-publish":true,"permalink":"/03-shack/front-of-house/estacion-de-cash/"}
 ---
 
 ## Índice

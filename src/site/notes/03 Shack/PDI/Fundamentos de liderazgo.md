@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03 Shack/PDI/Fundamentos de liderazgo/"}
+{"dg-publish":true,"permalink":"/03-shack/pdi/fundamentos-de-liderazgo/"}
 ---
 
 importancia del liderazgo que requiere esta nueva posición reflexionando sus cualidades y habilidades 

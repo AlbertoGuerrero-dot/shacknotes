@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03 Shack/PDI/Formación de entrenadores/"}
+{"dg-publish":true,"permalink":"/03-shack/pdi/formacion-de-entrenadores/"}
 ---
 
 el entrenador reconocerá su importancia de su participación como líder mediante la adquisición de herramientas 
