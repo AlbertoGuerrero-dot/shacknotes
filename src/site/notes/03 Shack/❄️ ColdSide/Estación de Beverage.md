@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/03-shack/cold-side/estacion-de-beverage/"}
 ---
 
-
 ## 📑 Índice
 1. [Objetivo del Área](#objetivo-del-área)  
 2. [Responsabilidades del Área](#responsabilidades-del-área)  
