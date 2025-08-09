@@ -8,7 +8,7 @@
 - [[03 Shack/🔥 HotSide/Estación de Bun\|Bun]] 
 ### ❄️Coldside
 - [[03 Shack/❄️ ColdSide/Estación de Custard\|Custard]]
-- [[03 Shack/❄️ ColdSide/Estación de Beberage\|Beberage]]
+- [[03 Shack/❄️ ColdSide/Estación de Beverage\|Beverage]]
 ### 🎖️Expo
 - [[03 Shack/🎖️ Expo/Estación de Expo\|Expo]]
 ### 🏛️Front Of House
