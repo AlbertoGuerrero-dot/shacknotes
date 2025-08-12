@@ -73,7 +73,7 @@ Con el tiempo, se convirtió en un ícono de la gastronomía casual moderna.
 - Expo
 
 ### Especializadas
-- MHA (*Mejorar Habilidades Avanzadas*)  
+- MHA (*Manejo higiénico de alimentos*)  
 - Bar  
 - Drive Thru  
 - Cultura
