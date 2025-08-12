@@ -77,7 +77,7 @@ El área de **GRILL** es responsable de cocinar todos los productos de proteína
 ---
 ## 📝 Datos del Grill
 - Temperatura del grill: 425°f o 218°c
-- Tipo de sal: Kosher
+- Tipo de sazonador: sal Kosher y pimienta negra molida
 - Temperatura de refrigeradores: 0°C a 4°C
 - Áreas frías: Dos dedos entre wave, el canal, la canastilla, las paredes, refrigeradores. Se llaman áreas frías porque no les da directamente la llama.
 - Cambio de utensilios: cada dos horas o entre cambio de griller
