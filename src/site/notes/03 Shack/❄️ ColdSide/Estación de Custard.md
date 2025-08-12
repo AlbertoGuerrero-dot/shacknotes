@@ -34,13 +34,13 @@ La estación **Custard** es responsable de preparar y servir todos los postres (
 
 ## 🍽️ Productos y Porciones Estándar
 
-| Producto                     | Porción estándar                                  |
-|------------------------------|---------------------------------------------------|
-| **Frozen Custard (cono/vaso)** | Sencillo: 5 oz / Doble: 8 oz (scoop verde)        |
-| **Malteada**                  | 11 oz custard + leche + salsas (total 15 oz)      |
-| **Float**                     | 12 oz refresco + 2 bolas custard (5 oz)           |
-| **Concrete**                  | 5.5 oz custard + toppings                         |
-| **Pooch-ini**                  | Bolas huecas de custard + galleta Bag o’ Bones    |
+| Producto                       | Porción estándar                               |
+| ------------------------------ | ---------------------------------------------- |
+| **Frozen Custard (cono/vaso)** | Sencillo: 5 oz / Doble: 8 oz (scoop verde)     |
+| **Malteada**                   | 11 oz custard + leche + salsas (total 15 oz)   |
+| **Float**                      | 12 oz refresco + 2 bolas custard (5 oz)        |
+| **Concrete**                   | 5.5 oz custard + toppings                      |
+| **Pooch-ini**                  | Bolas huecas de custard + galleta Bag o’ Bones |
 
 ---
 
@@ -102,11 +102,11 @@ La estación **Custard** es responsable de preparar y servir todos los postres (
 ## 🌡️ Temperaturas y Almacenamiento
 
 | Elemento                  | Temperatura ideal |
-|---------------------------|-------------------|
+| ------------------------- | ----------------- |
 | Custard en estación       | -5°C              |
 | Refrigeración de toppings | 0°C a 4°C         |
-| Congelador                 | -18°C o menos     |
-| Lavaloza                   | 83°C a 90°C       |
+| Congelador                | -18°C o menos     |
+| Lavaloza                  | 83°C a 90°C       |
 
 ---
 
@@ -155,6 +155,9 @@ La estación **Custard** es responsable de preparar y servir todos los postres (
 - Revisar perillas, válvulas y sellos.  
 - Mantener máquina a -17°C en congelador y -5°C en estación.  
 - Tapas cerradas cuando no se esté produciendo custard.  
+---
+## Partes de la maquina de custard
+![Pasted image 20250812054428.png](/img/user/03%20Shack/SRC/Pasted%20image%2020250812054428.png)
 
 ---
 

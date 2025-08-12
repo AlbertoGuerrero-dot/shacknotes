@@ -47,11 +47,12 @@ El área de BUN se encarga de la correcta manipulación, tostado, armado y ensam
 ---
 ## 🛠️ Herramientas y Utensilios
 
-- Tostador de pan
+- Tostador de pan (Temperatura de 350°F)
 - Espátula para Pan 
 - Mamilas porcionadoras 
 - Charolas limpias
 - Cambros etiquetados por tipo de vegetal
+- Thermalizer (Temperatura de 66.6°C)
 ---
 ## ✅ Control de Calidad
 

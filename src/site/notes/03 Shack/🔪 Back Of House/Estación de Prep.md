@@ -62,6 +62,8 @@ La estación de **Prep** tiene como función asegurar que todos los ingredientes
 - Supervisar la temperatura del área:
     - Refrigeración: **0°C a 4°C**
     - Congelación: **–18°C a –24°C**
+- Almacenamiento de alimentos en racks
+![Pasted image 20250812053628.png](/img/user/03%20Shack/SRC/Pasted%20image%2020250812053628.png)
 ## 🥬 Lavado y Desinfección de Verduras
 1. Llenar tarja con agua potable fría.
 2. Añadir el desinfectante aprobado (ppm según hoja técnica).
