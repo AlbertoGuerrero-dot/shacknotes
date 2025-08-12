@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/03-shack/hot-side/estacion-de-fry/"}
 ---
 
-## Índice
+## 📑 Índice
 1. [[#🕒 Tiempos de Cocción]]
 2. [[#🧂 Ingredientes]]
 	- [[#Breader naranja]]
@@ -17,6 +17,7 @@
 9. [[#🍟 Manejo de Papas]]
 10. [[#📦 Almacenamiento]]
 11. [[#🧮 All Day y Flujo Operativo]]
+---
 ## 🕒 Tiempos de Cocción
 
 | Producto                        |              |
@@ -25,6 +26,8 @@
 | Papas Well Done                 | 4:00 minutos |
 | Shroom y pollo                  | 3:30 minutos |
 | Echalotes, Cebolla y Pepinillos | 1:30 minutos |
+
+---
 ## 🧂 Ingredientes
 ### Breader naranja
 - Sal de apio
@@ -47,7 +50,7 @@ Se guarda en un cambro de 32 Oz y se sirve con cuchara blanca "Rubbermaid"
 	Diferencias
 	- **Breader**: polvo seco utilizado para empanizar y dar crocancia.
 	- **Batter**: mezcla de breader con agua, utilizada para marinar el pollo.
-
+---
 ## 🧑‍🍳 Preparaciones Especiales
 ### Papas Well Done
 - Cocinar 4:00 minutos
@@ -61,6 +64,8 @@ Se guarda en un cambro de 32 Oz y se sirve con cuchara blanca "Rubbermaid"
 - Solicitar **palillo de madera a expo** para diferenciarlas.
 
 Nota: *Shroom y pollo no tienen versión "well done", ya que puede afectar el sabor.*
+
+---
 ## 🌡️ Temperaturas
 
 | Uso               | Temperatura   |
@@ -70,18 +75,18 @@ Nota: *Shroom y pollo no tienen versión "well done", ya que puede afectar el sa
 | Refrigeración     | 0°C a 4°c     |
 | Congelación       | -18°C a -24°C |
 | Salamandra        | 40°C a 60°C   |
+
+---
 ## ⚠️ Alérgenos Presentes
 - **Soya**: aceite de freír. 
 - **Gluten**: panko (shroom), papas, breader.
 - **Lácteos**: queso (shroom), breader blanco, buttermilk (pollo).
+---
 ## 🍗 Características de Ingredientes
 
 ### Pollo
 - Peso: 3 oz por pieza.
-- Marinado en suero de leche (buttermilk) con:
-    - Perejil
-    - Cebollín
-    - Tomillo
+- Marinado en suero de leche (buttermilk)
 ### Papas
 - Marca: Lamb Weston
 - Tipo: Yukon Select
@@ -93,6 +98,7 @@ Nota: *Shroom y pollo no tienen versión "well done", ya que puede afectar el sa
 - Sal kosher: **Diamond Crystal**
 - Pollos: **Ruprech Company**
 - Aceite: 
+---
 ## 🛠️ Herramientas y Utensilios
 - Spider para cernir breader
 - Spider para residuos del aceite
@@ -107,9 +113,11 @@ Nota: *Shroom y pollo no tienen versión "well done", ya que puede afectar el sa
 - Estación de trabajo con 4 cambros
 - Canastas separadas para evitar contaminación cruzada
 - Salero con sal kosher
+---
 ## 🧼 Manejo Higiénico y Cambios de Utensilios
 - **Cubeta con sanitizante**: cambiar cada **4 horas** o antes si es necesario.
 - **Utensilios**: cambiar cada **2 horas** o antes si es necesario.
+---
 ## 🍟 Manejo de Papas
 
 | Producto        | Maximo por canasta              |
@@ -125,10 +133,12 @@ Nota: *Shroom y pollo no tienen versión "well done", ya que puede afectar el sa
 1. Introducir una canasta con media bolsa.
 2. Esperar 1 minuto.
 3. Bajar segunda canasta con el resto de la bolsa.
+---
 ## 📦 Almacenamiento
 - **Capacidad del congelador**: 12 bolsas.
 - Si hay de 5 a 6 bolsas → solicitar **1 caja (6 bolsas)** al kitchen champ.
 - Aplicar **PEPS** (Primero en Entrar, Primero en Salir).
+---
 ## 🧮 All Day y Flujo Operativo
 - **All day**: insumos necesarios totales para cubrir la demanda.
 - Restar lo que ya está en aceite.    

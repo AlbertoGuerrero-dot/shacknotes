@@ -9,10 +9,15 @@
 - [[#🛠️ Herramientas y Equipos de Trabajo]]
 - [[#🏷️ Etiquetado, PEPS y Vida Útil]]
 - [[#🧼 Buenas Prácticas de Higiene y Seguridad]]
+- [[#🥬 Lavado y Desinfección de Verduras]]
+- [[#🧼 Higiene y Seguridad]]
 - [[#✅ Control de Calidad y Validación]]
 - [[#💡 Tips Operativos]]
+---
 ## 🎯 Objetivo del Área
 La estación de **Prep** tiene como función asegurar que todos los ingredientes y productos estén **preparados, porcionados, etiquetados y almacenados correctamente**, para garantizar fluidez operativa y calidad constante en cocina.
+
+---
 ## 👥 Posiciones y Responsabilidades
 - **Prep Champ**:
     - Realiza las recetas siguiendo el recetario exacto (peso, volumen, temperatura).
@@ -20,12 +25,14 @@ La estación de **Prep** tiene como función asegurar que todos los ingredientes
     - Aplica PEPS rigurosamente.
     - Mantiene limpieza de la estación durante todo el turno.
     - Informa a líder de turno si algún producto está fuera de estándar.
+---
 ## 🍳 Actividades Principales
 - Cortar y porcionar vegetales (jitomate, lechuga, cebolla).
 - Preparar aderezos, salsas y mezclas (como Mamilas de Shack sauce o Herb Mayo, Chicken Bites, Limonada).
 - Porcionar carne, pollo, tocino, salchichas o quesos.
-- Preparar mezclas líquidas (batter, custard, té, etc.).
+- Preparar mezclas líquidas (batter, custard, etc.).
 - Etiquetar todos los productos con fecha, hora y nombre.
+---
 ## 🛠️ Herramientas y Equipos de Trabajo
 - Tabla de corte
 - Cuchillos afilados y peladores
@@ -35,6 +42,7 @@ La estación de **Prep** tiene como función asegurar que todos los ingredientes
 - Guantes de seguridad
 - Checklist de prep diario
 - Sanitizante (cambio cada 4 horas)
+---
 ## 🏷️ Etiquetado, PEPS y Vida Útil
 1. **Etiqueta completa**:
     - Nombre del producto
@@ -54,6 +62,17 @@ La estación de **Prep** tiene como función asegurar que todos los ingredientes
 - Supervisar la temperatura del área:
     - Refrigeración: **0°C a 4°C**
     - Congelación: **–18°C a –24°C**
+## 🥬 Lavado y Desinfección de Verduras
+1. Llenar tarja con agua potable fría.
+2. Añadir el desinfectante aprobado (ppm según hoja técnica).
+3. Sumergir verduras el tiempo indicado.
+4. Escurrir y secar con toallas limpias o centrifugadora.
+5. Colocar en cambros limpios y etiquetar.
+## 🧼 Higiene y Seguridad
+- Lavarse manos antes de manipular alimentos.
+- Uso de guantes limpios.
+- No mezclar alimentos crudos y listos para consumo.
+- Mantener químicos lejos de áreas de preparación.
 ## ✅ Control de Calidad y Validación
 - Validar color, olor, textura y apariencia del producto.
 - Si algo **luce raro, huele mal o no cumple receta**, **no se usa**.

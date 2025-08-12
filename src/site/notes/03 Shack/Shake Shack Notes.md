@@ -3,7 +3,7 @@
 ---
 
 ### 🔥Hotside
-- [[03 Shack/🔥 HotSide/Estación de GRILL\|Grill]]
+- [[03 Shack/🔥 HotSide/Estación de Grill\|Grill]]
 - [[03 Shack/🔥 HotSide/Estación de Fry\|Fry]]
 - [[03 Shack/🔥 HotSide/Estación de Bun\|Bun]] 
 ### ❄️Coldside
@@ -18,6 +18,8 @@
 - [[03 Shack/🔪 Back Of House/Estación de Kitchen\|Kitchen]]
 - [[03 Shack/🔪 Back Of House/Estación de Clean\|Clean]]
 - [[03 Shack/🔪 Back Of House/Estación de Prep\|Prep]]
+### ⭐ Cultura
+- [[03 Shack/⭐ Cultura/Guía de Cultura – Shake Shack\|Cultura]]
 ### PDI (Trainer)
 - [[03 Shack/PDI/Roles y Responsabilidades\|Roles y Responsabilidades]]
 - [[03 Shack/PDI/Fundamentos de liderazgo\|Fundamentos de liderazgo]]

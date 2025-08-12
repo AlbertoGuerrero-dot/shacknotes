@@ -10,12 +10,16 @@
 5. [[#🛠️ Herramientas y Utensilios]]
 6. [[#✅ Control de Calidad]]
 7. [[#💡 Tips Operativos]]
+---
 ## 🎯 Objetivo del Área
 El área de BUN se encarga de la correcta manipulación, tostado, armado y ensamble de todos los productos con pan. Aquí se garantiza que los productos lleguen al invitado **calientes, bien presentados y manipulados con cuidado**.
+
+---
 ## 👥 Posiciones y Responsabilidades
 - **Bun 1**: Es el encargado se subir las hamburguesas a sus áreas correspondientes
 - **Bun 2**: Es el responsable de los armados de las hamburguesas así como de cantar todo lo que necesite la orden (carne, bites, pollos, shroom, etc.) 
 - **Bun 3**: Se encarga de tostar el pan, hacer los hotdogs y grillcheese de las ordenes así como de pasar el queso a grill cuando lo solicite
+---
 ## 🕒 Tiempos y Estándares de Servicio
 
 | Actividad               | Tiempo/Frecuencia             |
@@ -23,6 +27,8 @@ El área de BUN se encarga de la correcta manipulación, tostado, armado y ensam
 | Tostado de pan          | Inmediato al recibir orden    |
 | Cambio de utensilios    | Cada dos horas                |
 | Etiquetado de productos | Cada 4 horas con fecha y hora |
+
+---
 ## 🍞 Ingredientes y Componentes
 ### Panes
 - Pan de papa (Marca Martin's)
@@ -34,8 +40,11 @@ El área de BUN se encarga de la correcta manipulación, tostado, armado y ensam
 - Pepinillo (con semillas visibles, no quemado o seco)
 - Cebolla (aro de 0.3 cm, blanca brillante)
 - Pimiento rojo
-- Salsas: shack sauce, herb mayo, y si hubiera de temporada.
+- Salsas en mamilas porcionadoras: 
+	- Shack Sauce: 
+	- Herb Mayo:
 *Vegetales deben estar **refrigerados a 0-4°C** y bien etiquetados*
+---
 ## 🛠️ Herramientas y Utensilios
 
 - Tostador de pan
@@ -43,16 +52,19 @@ El área de BUN se encarga de la correcta manipulación, tostado, armado y ensam
 - Mamilas porcionadoras 
 - Charolas limpias
 - Cambros etiquetados por tipo de vegetal
+---
 ## ✅ Control de Calidad
 
-| Ingredientes  | Estándar Visual                                             |
-| ------------- | ----------------------------------------------------------- |
-| Lechuga       | Verde brillosa, forma triangular, sin roturas ni quemaduras |
-| Jitomate      | Rojo brillante, con semillas visibles, no debe estar roto   |
-| Pepinillo     | Entero, con semillas, son quemarse                          |
-| Pimiento rojo | Cubitos                                                     |
-| Cebolla       | Blanca, en aro, sin romperse                                |
-| Pan           | Tostado parejo, no quemado                                  |
+| Ingredientes  | Estándar Visual                                                      | Medidas        |
+| ------------- | -------------------------------------------------------------------- | -------------- |
+| Lechuga       | Verde brillosa, forma triangular, sin roturas ni quemaduras          | 10cm x 11.5 cm |
+| Jitomate      | Rojo brillante, con semillas visibles, no debe estar roto            | 0.5 cm         |
+| Pepinillo     | Entero, con semillas, son quemarse                                   | 0.5 cm         |
+| Pimiento rojo | Cubitos                                                              |                |
+| Cebolla       | Blanca, en aro, sin romperse, al menos 3 dedos deben caber en el aro | 0.3 cm         |
+| Pan           | Tostado parejo, no quemado                                           |                |
+
+---
 ## 💡 Tips Operativos
 
 - Verifica que el tostador esté **caliente antes de comenzar** tu turno.
@@ -60,5 +72,5 @@ El área de BUN se encarga de la correcta manipulación, tostado, armado y ensam
 - **Evita exceso de salsa** para que el pan no se humedezca.
 - Siempre revisa **frescura y estado de los vegetales** antes de iniciar turno.
 - Ten la estación limpia y organizada para mantener flujo rápido con Grill y Expo.
-
+---
 [[03 Shack/Shake Shack Notes\|Regresar]]
