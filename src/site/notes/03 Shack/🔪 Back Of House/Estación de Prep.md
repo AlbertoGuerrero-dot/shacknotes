@@ -70,6 +70,7 @@ La estación de **Prep** tiene como función asegurar que todos los ingredientes
 3. Sumergir verduras el tiempo indicado.
 4. Escurrir y secar con toallas limpias o centrifugadora.
 5. Colocar en cambros limpios y etiquetar.
+*[[03 Shack/Extras/Guía Químicos Beta\|Guía Químicos Beta]]*
 ## 🧼 Higiene y Seguridad
 - Lavarse manos antes de manipular alimentos.
 - Uso de guantes limpios.

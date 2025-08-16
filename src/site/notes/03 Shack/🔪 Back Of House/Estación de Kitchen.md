@@ -2,27 +2,73 @@
 {"dg-publish":true,"permalink":"/03-shack/back-of-house/estacion-de-kitchen/"}
 ---
 
-## Índice 
-1. [[#🎯 Objetivo del Área]]
-2. [[#👥 Roles dentro de Kitchen]]
-3. [[#📦 PEPS, Relleno y Organización]]
-4. [[#💡 Tips Operativos]]
+# 🧾 Guía Operativa – Estación KITCHEN
+
+---
+
+## 📑 Índice
+1. [Objetivo del Área](#objetivo-del-área)  
+2. [Responsabilidades](#responsabilidades)  
+3. [Reabastecimiento](#reabastecimiento)  
+4. [Limpieza de Pisos](#limpieza-de-pisos)  
+5. [Manejo de Basura](#manejo-de-basura)  
+6. [Herramientas](#herramientas)  
+7. [Higiene y Seguridad](#higiene-y-seguridad)  
+8. [Tips Operativos](#tips-operativos)
+
+---
+
 ## 🎯 Objetivo del Área
-La estación de **Kitchen** es el núcleo operativo donde convergen todas las áreas ya que es el encargado principal de resurtir a la cocina para que siga la operación sin ningún contratiempo
-## 👥 Roles dentro de Kitchen
-- Entrega ingredientes entre áreas (por ejemplo, papas de Fry a Expo).
-- Rellena utensilios y cambros.
-- Comunica necesidades entre estaciones.
-- Limpieza de los pisos y cambio de botes de basura
-## 📦 PEPS, Relleno y Organización
-- Mantener estaciones abastecidas sin sobrecargar.
-- Revisar cambros (productos a temperatura y con etiqueta).
-- Rellenar durante momentos lentos, **no en rush**.
-- Usar PEPS en todos los ingredientes y etiquetas sin excepción.
-- Cambros sin etiqueta o caducados se descartan.
+**Kitchen** mantiene el flujo de trabajo en cocina asegurando que todos los insumos, utensilios y áreas estén en orden, limpios y abastecidos.
+
+---
+
+## 👥 Responsabilidades
+- Reabastecer las estaciones de cocina.
+- Mantener pisos limpios y secos.
+- Vaciar botes de basura y reemplazar bolsas.
+- Apoyar en limpieza general de áreas comunes.
+
+---
+
+## 📦 Reabastecimiento
+- Entregar insumos desde Prep o almacenamiento a las estaciones.
+- Revisar niveles de cambros y reponer antes de que se terminen.
+- Aplicar método PEPS en reabastecimiento.
+
+---
+
+## 🧹 Limpieza de Pisos
+- Barrer restos sólidos antes de trapear.
+- Usar trapeador y solución limpiadora aprobada.
+- Mantener señalización de piso mojado.
+
+---
+
+## 🗑️ Manejo de Basura
+- Retirar basura antes de que se llene por completo.
+- Usar bolsas del color indicado.
+- Sellar bien las bolsas antes de llevarlas al área de recolección.
+
+---
+
+## 🛠️ Herramientas
+- Carrito para transporte de insumos.
+- Escoba, recogedor, trapeador.
+- Bolsas de basura y señal de piso mojado.
+
+---
+
+## 🧼 Higiene y Seguridad
+- Usar guantes para manipular basura.
+- Mantener áreas de paso libres de obstáculos.
+- Lavar manos después de manipular residuos.
+
+---
+
 ## 💡 Tips Operativos
-- **El Kitchen Champ no se queda quieto**: observa, apoya, comunica.
-- Si una estación termina antes que las otras, ayuda a balancear.
-- Reporta anomalías de temperaturas o inventario de inmediato.
+- Reabastecer durante momentos lentos.
+- Reportar cualquier derrame inmediatamente.
+- Revisar constantemente niveles de insumos.
 
 [[03 Shack/Shake Shack Notes\|Regresar]]
