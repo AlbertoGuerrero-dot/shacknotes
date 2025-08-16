@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/03-shack/back-of-house/estacion-de-kitchen/"}
 ---
 
-# 🧾 Guía Operativa – Estación KITCHEN
-
----
-
 ## 📑 Índice
 1. [Objetivo del Área](#objetivo-del-área)  
 2. [Responsabilidades](#responsabilidades)  

@@ -10,11 +10,13 @@
 5. [[#⏱️ Manejo de Tiempos y Coordinación]]
 6. [[#✅ Verificación de Calidad]]
 7. [[#💡 Tips Operativos]]
+---
 ## 🎯 Objetivo del Área
 **Expo** (abreviatura de "expeditor") es el punto de control final donde se revisan, ordenan, acomodan y entregan todos los productos (comida y bebida) antes de llegar al invitado. Es clave para asegurar:
 - La **calidad visual** del producto.
 - El **tiempo de entrega óptimo**.
 - La **coordinación** entre cocina y servicio.
+---
 ## 👥 Posiciones y Responsabilidades
 - **Expo KDS**: Persona principal en la estación, responsable de:
     - Verificar que cada producto esté correcto.
@@ -23,6 +25,7 @@
     - Comunicar con FOH, Fry, Bun, Grill y Custard.
 - **Expo Runner**: Apoya organizando bolsas, bebidas y empaques. Se encarga de completar las ordenes trayendo las cosas que hagan falta para poder llevarse la charola a front expo
 *En Rush o momentos de alta demanda, **Expo** debe motivar y dirigir el flujo de la cocina.*
+---
 ## 🔁 Flujo de Trabajo
 1. **Revisar ticket** (completo, sin errores).
 2. **Verificar productos** uno por uno:
@@ -33,6 +36,7 @@
     - En bolsa (To-Go) hasta un maximo de 4 productos por bolsa
     - Acomodo limpio y funcional. Teniendo en cuenta las 3Ps: Peso, producto y presentación 
 4. **Enviar orden** al runner o entregar.
+---
 ## 🛠️ Herramientas y Equipo
 - Monitor de cocina(KDS) 
 - tickets impresos 
@@ -40,10 +44,12 @@
 - Bolsas y cajas
 - Aderezos y suflés 
 - Estación limpia con sanitizante activo
+---
 ## ⏱️ Manejo de Tiempos y Coordinación
 - **Expo controla el tiempo de entrega**. Si un producto se retrasa, comunica con la estación correspondiente.
 - Se prioriza la salida completa de órdenes, **no productos individuales**.
 - Si hay un error, **no enviar la orden incompleta**. Solicitar el remake de inmediato.
+---
 ## ✅ Verificación de Calidad
 
 Antes de entregar, Expo debe checar:
@@ -51,6 +57,7 @@ Antes de entregar, Expo debe checar:
 2. **Ingredientes según ticket (sin o con algo)**
 3. **Visual**: sin ingredientes fuera de lugar, sin manchas de salsa
 4. **Temperatura**: papas calientes, bebidas frías
+---
 ## 💡 Tips Operativos
 - Antes de cada Rush: **acomoda charolas, bolsas, cubiertos, stickers, etc.**
 - Siempre **confirma con cada estación si un producto está en camino** antes de alarmarte.
