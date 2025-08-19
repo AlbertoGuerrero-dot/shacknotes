@@ -24,5 +24,6 @@
 - [[03 Shack/PDI/Roles y Responsabilidades\|Roles y Responsabilidades]]
 - [[03 Shack/PDI/Fundamentos de liderazgo\|Fundamentos de liderazgo]]
 - [[03 Shack/PDI/Formación de entrenadores\|Formación de entrenadores]]
+- [[03 Shack/PDI/Fundamentos de la Inteligencia Emocional\|Fundamentos de la Inteligencia Emocional]]
 - [[03 Shack/PDI/Steer\|Steer]]
 - [[03 Shack/PDI/Manejo Higiénico de alimentos\|MHA]]

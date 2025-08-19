@@ -32,6 +32,7 @@ La estación de **Prep** tiene como función asegurar que todos los ingredientes
 - Porcionar carne, pollo, tocino, salchichas o quesos.
 - Preparar mezclas líquidas (batter, custard, etc.).
 - Etiquetar todos los productos con fecha, hora y nombre.
+Algunas de las recetas y procedimientos se redactan a detalle en: [[03 Shack/Extras/Procedimientos y recetas de Prep\|Procedimientos y recetas de Prep]] 
 ---
 ## 🛠️ Herramientas y Equipos de Trabajo
 - Tabla de corte

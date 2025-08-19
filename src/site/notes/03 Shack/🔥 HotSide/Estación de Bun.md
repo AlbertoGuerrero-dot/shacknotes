@@ -60,8 +60,8 @@ El área de BUN se encarga de la correcta manipulación, tostado, armado y ensam
 | ------------- | -------------------------------------------------------------------------------- | -------------- |
 | Lechuga       | Verde brillosa, forma triangular, sin roturas ni quemaduras (proveedor Mr Lucky) | 10cm x 11.5 cm |
 | Jitomate      | Rojo brillante, con semillas visibles, no debe estar roto                        | 0.5 cm         |
-| Pepinillo     | Entero, con semillas, sin quemarse (proveedor united pickles)                    | 0.5 cm         |
-| Pimiento rojo | Cubitos ()                                                                       |                |
+| Pepinillo     | Entero, con semillas, sin quemarse (proveedor rick's picks)                      | 0.5 cm         |
+| Pimiento rojo | Cubitos (proveedor United Pickles)                                               |                |
 | Cebolla       | Blanca, en aro, sin romperse, al menos 3 dedos deben caber en el aro             | 0.3 cm         |
 | Pan           | Tostado parejo, no quemado                                                       |                |
 
